@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>
+        Rock resume
+    </title>
+    <link href="css.css" rel="stylesheet" type="" text/css "/> 
+</head>
+
+
+    <body>
+       <section id=" main ">
+<nav><a href="g " class=" logo ">
+<img src="r3.png " alt="the logo of Rock ">
+</a>
+<span class=" menu-space "></span>
+<ul class=" menu ">
+<li><a href="g ">Home</a></li>
+<li><a href="g ">skill</a></li>
+<li><a href="g ">recent</a></li>
+<li><a href="g ">clint</a></li>
+<li><a href="g ">contact</a></li>
+    </ul>
+<a href="g " class=" hi "><strong>Say Hi!</strong>
+</a>
+    </nav>
+       </section>
+<section class=" content ">
+<div class=" image ">
+<img src="r2.png " alt="rock ">
+</div>
+<div class=" main-text ">
+<h1>Hello, I am the <br> Rock</h1>
+<p>Hey in this video i will be showing you guys how to build a website using html and css</p>
+<a href=" # " class=" Resume-btn ">See my resume</a></div>
+</section>
+
+    </body>
+
+</html>
